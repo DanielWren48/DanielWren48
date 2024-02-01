@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**DanSmirnov48/DanSmirnov48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```yaml
+name: Dan Smirnov
+located_in: Glasgow, United Kingdom
+education: ["Bachelor's in Computer Science"]
+technical_skills: ["Java", "C#", ".NET", "Android", "JavaScript", "TypeScript", "SQL", "Azure", "AWS"]
+favourite_tech: ["JavaScript", "TypeScript", "React", "Vite", "Next", "Tailwind", "Node", "Express"]
+currently_learning: ["TypeScript", "React"]
+hobbies: ["Cycling", "Mountain Biking", "Photography", "Gaming"]
+```
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DanSmirnov48&bg_color=22272d&color=a3a3a3&line=5e4d7a&point=c262d5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
