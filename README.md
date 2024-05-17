@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ```yaml
 name: Dan Smirnov
 located_in: Glasgow, United Kingdom
