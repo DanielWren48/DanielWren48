@@ -4,7 +4,7 @@ located_in: Glasgow, United Kingdom
 education: ["Bachelor's in Computer Science"]
 technical_skills: ["Java", "C#", ".NET", "Android", "JavaScript", "TypeScript", "Go", "SQL", "Azure", "AWS"]
 favourite_tech: ["JavaScript", "TypeScript", "React", "Vite", "Next", "Tailwind", "Node", "Express"]
-currently_learning: ["Go", "TypeScript", "React"]
+currently_learning: ["Go"]
 hobbies: ["Cycling", "Mountain Biking", "Photography", "Gaming"]
 ```
 
