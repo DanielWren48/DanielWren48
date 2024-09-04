@@ -3,9 +3,9 @@ name: Dan Smirnov
 located_in: Glasgow, United Kingdom
 education: ["Bachelor's in Computer Science"]
 technical_skills: ["Java", "C#", ".NET", "Android", "JavaScript", "TypeScript", "Go", "SQL", "Azure", "AWS"]
-favourite_tech: ["JavaScript", "TypeScript", "React", "Vite", "Next", "Tailwind", "Node", "Express"]
+favourite_tech: ["TypeScript", "React", "Node", "Go"]
 currently_learning: ["Go"]
-hobbies: ["Cycling", "Mountain Biking", "Photography", "Gaming"]
+hobbies: ["Cycling", "Mountain Biking", "Photography"]
 ```
 
 
