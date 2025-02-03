@@ -1,5 +1,5 @@
 ```yaml
-name: Dan Smirnov
+name: Daniel Wren
 located_in: Glasgow, United Kingdom
 education: ["Bachelor's in Computer Science"]
 technical_skills: ["Java", "C#", ".NET", "Android", "JavaScript", "TypeScript", "Go", "SQL", "Azure", "AWS"]
